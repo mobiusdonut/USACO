@@ -1,7 +1,7 @@
 """
-ID: kripaki1
+ID: ********
 LANG: PYTHON2
-TASK: ride
+    TASK: ride
 """
 with open('ride.in', 'r') as fin:
     comet = fin.readline().strip()

@@ -1,5 +1,5 @@
 """
-ID: kripaki1
+ID: ********
 LANG: PYTHON2
 TASK: beads
 """
